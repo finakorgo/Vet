@@ -448,7 +448,7 @@ main {
 }
 
 .end-footer {
-    margin: 10vh 0 0 10vw;
+    margin: 10vh 0 0 20vw;
     display: flex;
     flex-direction: row;
 }
