@@ -283,12 +283,13 @@ main {
 /*Set config page q-somos.php*/
 .somos-img {
     position: relative;
-    margin-top: 50vh;
+    margin-top: 80vh;
     
     
 }
 .somos-img img {
-    width: 100%;
+    display: block;
+    width: 80%;
    
     
 }
@@ -296,7 +297,7 @@ main {
     width: 560px;
     height: 560px;
     position: absolute;
-    top: 50%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%,-50%);
     background: transparent;
